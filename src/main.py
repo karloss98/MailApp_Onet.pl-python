@@ -6,6 +6,4 @@ def start_gui():
 
 
 if __name__ == '__main__':
-    test = 'W@'
-    print(test.lower())
     start_gui()
